@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white p-0">
     <div class="container">
-        <a class="navbar-brand py-0" href="{{url('')}}">
+        <a class="navbar-brand py-0" href="index.html">
             <img src="{{asset('')}}frontend/images/logo2.png" alt="logo" class="img-fluid">
         </a>
         <ul class="navbar-nav middle-nav">
@@ -93,7 +93,7 @@
                         <a class="nav-link" href="{{url('product')}}">Product</a>
                     </li>
                     <li class="nav-item py-3">
-                        <a class="nav-link" href="{{url('contactus')}}">Contact Us</a>
+                        <a class="nav-link" href="contactus.html">Contact Us</a>
                     </li>
                 </ul>
 
